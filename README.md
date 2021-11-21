@@ -1,6 +1,8 @@
 # Lofi-Live<br><img src="icon.png" width="200"/>
 A simple app hosted setup using youtube api...<br> Play store link<br> https://play.google.com/store/apps/details?id=com.chillandcode.lofitube
 <br>
+youtube ad https://www.youtube.com/watch?v=A_VVl36zQRk
+<br>
 <img src="youtube thumb.png" width="200"/>
 <br>
 Screenshots :
